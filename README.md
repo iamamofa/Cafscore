@@ -3,6 +3,10 @@
 
 ## How to Run 
 ```
+flutter pub get 
+```
+```
+flutter run 
 ```
 ## Support
 
