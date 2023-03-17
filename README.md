@@ -1,8 +1,9 @@
 # Cafscore
 
 
-
-
+## How to Run 
+```
+```
 ## Support
 
 If you want to support the development of this app, feel free to [sponsor](https://ko-fi.com/justiceoheneamofa) me or [buy me a coffee](https://ko-fi.com/justiceoheneamofa).
